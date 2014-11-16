@@ -2,6 +2,7 @@
 #
 ro.secure=0
 # Radio
+ro.telephony.ril_class=LGEQualcommUiccRIL
 rild.libpath=/system/lib/libril-qc-1.so
 rild.libargs=-d /dev/smd0
 ro.telephony.default_network=3
