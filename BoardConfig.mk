@@ -25,5 +25,3 @@ TARGET_PRODUCT := victor_open_com
 # HDMI
 TARGET_QCOM_HDMI_OUT := false
 
-# CM Hardware tunables
-BOARD_HARDWARE_CLASS += device/lge/e730/cmhw
